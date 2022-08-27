@@ -17,6 +17,7 @@
 const double PI = 3.1415926535898;
 
 using namespace std;
+using namespace cpplearn;
 
 Sphere::Sphere(double rad){
     cout << "making a sphere now!" << endl;

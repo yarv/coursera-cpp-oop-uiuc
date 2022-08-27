@@ -5,8 +5,8 @@
 
 using namespace std;
 int main(){
-    Sphere testSphere1 (5);
-    Sphere testSphere2 (-3);
+    cpplearn::Sphere testSphere1 (5);
+    cpplearn::Sphere testSphere2 (-3);
 
     cout << "Test sphere 1 details...\n\n" << endl;
     testSphere1.printDetails();
